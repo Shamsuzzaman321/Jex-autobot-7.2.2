@@ -1,0 +1,2 @@
+coppercoast.biz//wp-admin/admin-ajax.php?action=revslider_ajax_action&client_action=get_captions_css
+temeculatrophy.com//wp-admin/admin-ajax.php?action=revslider_ajax_action&client_action=get_captions_css

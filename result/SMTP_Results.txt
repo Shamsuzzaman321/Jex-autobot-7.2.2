@@ -1,0 +1,10 @@
+HostName: smtp.office365.com
+user: enquiry@theparq.com
+Pass: Parqrama4
+PORT: 587
+-----------------------------------------
+HostName: visionarywritings.com
+user: authors@visionarywritings.com
+Pass: @WordPass1
+PORT: 465
+-----------------------------------------
